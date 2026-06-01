@@ -64,7 +64,6 @@ export default function App() {
   };
 
   return (
-    <ViewportWrapper>
       <div className="bg-white min-h-screen text-neutral-950 selection:bg-neutral-900 selection:text-white flex flex-col justify-between font-sans">
         
         {/* Dynamic Minimal Navbar */}
@@ -974,6 +973,5 @@ export default function App() {
         </AnimatePresence>
 
       </div>
-    </ViewportWrapper>
   );
 }
