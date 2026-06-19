@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <!-- Left Hiragana Stack -->
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="900" font-size="14" fill="#000000" text-anchor="middle">
+    <text x="18" y="28">の</text>
+    <text x="18" y="50">り</text>
+    <text x="18" y="72">の</text>
+    <text x="18" y="94">や</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="32" y1="18" x2="32" y2="102" stroke="#E5E5E5" stroke-width="1.5" />
+
+  <!-- Right Brand Stack -->
+  <g fill="#000000">
+    <!-- Top Line segment over "nor" -->
+    <rect x="42" y="18" width="38" height="3" />
+    
+    <!-- Custom Dot for "i" -->
+    <circle cx="89" cy="19.5" r="2.5" />
+    
+    <!-- Text Elements -->
+    <g font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-weight="950" font-size="30" letter-spacing="-0.5">
+      <text x="42" y="52">norı</text>
+      <text x="42" y="85">noya</text>
+    </g>
+  </g>
+</svg>

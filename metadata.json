@@ -1,0 +1,6 @@
+{
+  "name": "Norinoya",
+  "description": "Portal berita, database komik & light novel, dan agregator link affiliate resmi Gramedia, Shopee, dan Tokopedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
